@@ -17,6 +17,10 @@
     <input type="text" placeholder="badminton" name="badminton" id="badminton" required>
     <br>
 
+   <label for="sports"><b>sports</b></label>
+    <input type="text" placeholder="sports" name="sports" id="sports" required>
+    <br>
+
     <label for="mother"><b>Mother Name</b></label>
     <input type="text" placeholder="Mother Name" name="mother" id="mother" required>
     <br>
