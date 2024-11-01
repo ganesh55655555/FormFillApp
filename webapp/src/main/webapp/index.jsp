@@ -16,6 +16,10 @@
     <label for="badminton"><b>badminton</b></label>
     <input type="text" placeholder="badminton" name="badminton" id="badminton" required>
     <br>
+    
+    <label for="shuttle court"><b>shuttle court</b></label>
+    <input type="text" placeholder="shuttle court" name="shuttle court" id="shuttle court" required>
+    <br>
 
    <label for="sports"><b>sports</b></label>
     <input type="text" placeholder="sports" name="sports" id="sports" required>
