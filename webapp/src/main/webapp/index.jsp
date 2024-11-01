@@ -9,8 +9,8 @@
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
 
-    <label for="aadhar"><b>Aadhar</b></label>
-    <input type="text" placeholder="Enter aadhar" name="aadhar" id="aadhar" required>
+    <label for="aadharr"><b>Aadharr</b></label>
+    <input type="text" placeholder="Enter aadharr" name="aadharr" id="aadharr" required>
     <br>
    
     <label for="badminton"><b>badminton</b></label>
