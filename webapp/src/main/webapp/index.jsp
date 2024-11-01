@@ -18,7 +18,7 @@
     <br>
     
     <label for="shuttle court"><b>shuttle court</b></label>
-    <input type="text" placeholder="shuttle court" name="shuttle court" id="shuttle court" required>
+    <input type="text" placeholder="ganesh court" name="ganesh court" id="ganesh court" required>
     <br>
 
    <label for="sports"><b>sports</b></label>
