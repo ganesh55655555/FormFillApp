@@ -8,6 +8,10 @@
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
+    
+    <label for="aws"><b>aws</b></label>
+    <input type="text" placeholder="Enter aws" name="aws" id="aws" required>
+    <br>
 
     <label for="aadharr"><b>Aadharr</b></label>
     <input type="text" placeholder="Enter aadharr" name="aadharr" id="aadharr" required>
