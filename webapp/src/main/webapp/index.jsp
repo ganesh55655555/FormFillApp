@@ -12,6 +12,10 @@
     <label for="aws"><b>aws</b></label>
     <input type="text" placeholder="Enter aws" name="aws" id="aws" required>
     <br>
+    
+    <label for="terraform"><b>terraform</b></label>
+    <input type="text" placeholder="Enter terraform" name="terraform" id="terraform" required>
+    <br>
 
     <label for="aadharr"><b>Aadharr</b></label>
     <input type="text" placeholder="Enter aadharr" name="aadharr" id="aadharr" required>
