@@ -5,6 +5,10 @@
     <hr>
     <br>
 
+    <label for="role"><b>designation</b></label>
+    <input type="text" placeholder="ganeshkumar devops enginner" name="role" id="role" required>
+    <br>
+ 
     <label for="name"><b>Name</b></label>
     <input type="text" placeholder="Enter Name" name="name" id="name" required>
     <br>
