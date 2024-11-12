@@ -5,6 +5,10 @@
     <hr>
     <br>
 
+    <label for="juniordevops eng"><b>designation</b></label>
+    <input type="text" placeholder="juniordevops eng" name="juniordevops eng" id="juniordevopseng" required>
+    <br>
+
     <label for="role"><b>designation</b></label>
     <input type="text" placeholder="ganeshkumar devops enginner" name="role" id="role" required>
     <br>
