@@ -5,6 +5,10 @@
     <hr>
     <br>
 
+    <label for="ganehterraformeng"><b>designation</b></label>
+    <input type="text" placeholder="ganehterraformeng" name="ganehterraformeng" id="ganeterraform" required>
+    <br>
+
     <label for="juniordevops eng"><b>designation</b></label>
     <input type="text" placeholder="juniordevops eng" name="juniordevops eng" id="juniordevopseng" required>
     <br>
