@@ -86,7 +86,10 @@
     <label for="psw-repeat"><b>credendtials</b></label>
     <input type="password" placeholder="credentials" name="credentials" id="credentials" required>
     <br>
-
+    
+    <label for="psw-repeat"><b>credendtials</b></label>
+    <input type="password" placeholder="sensitivepass" name="credentials" id="sensitivepass" required>
+    <br>
 
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
     <button type="submit" class="registerbtn">Register</button>
